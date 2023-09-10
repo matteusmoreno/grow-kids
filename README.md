@@ -14,6 +14,7 @@ O projeto GrowKids Website é um site fictício destinado a promover um curso pa
 - Normalize.css
 
 ## Estrutura de Pastas
+``` bash
 /
 ├── index.html
 ├── style.css
@@ -21,6 +22,7 @@ O projeto GrowKids Website é um site fictício destinado a promover um curso pa
 │ ├── Astronauta 1.png
 │ ├── logo-dark 1.png
 ├── README.md
+```
 
 
 ## Contribuições
